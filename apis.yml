@@ -26,6 +26,10 @@ apis:
       - type: Documentation
         url: https://docs.haystack.deepset.ai
 common:
+  - type: GitHubOrganization
+    url: https://github.com/deepset-ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/deepset-ai
   - type: Website
     url: https://haystack.deepset.ai
   - type: Documentation
