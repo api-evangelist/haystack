@@ -34,6 +34,8 @@ common:
     url: https://haystack.deepset.ai
   - type: Documentation
     url: https://docs.haystack.deepset.ai
+  - type: LLMsTxt
+    url: https://docs.haystack.deepset.ai/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
